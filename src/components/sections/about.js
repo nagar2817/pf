@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'Python', 'React', 'C++', 'Node.js', 'MongoDB'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,27 +136,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello!!! My name is Rohit Nagar, a final-year undergraduate student at Indian Institute of Technology Jodhpur. I have keen interest in building web apps including both frontend and backend. My Interest develope with HTML &amp; CSS! 
-            </p>
-
-            //   <p>
-            //   Fast-forward to today, and I’ve had the privilege of working at{' '}
-            //   <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-            //   <a href="https://starry.com/">a start-up</a>,{' '}
-            //   <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-            //   <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-            //   main focus these days is building accessible, inclusive products and digital
-            //   experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-            //   clients.
-            // </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Hello!!! My name is Rohit Nagar, a final-year undergraduate student at Indian
+              Institute of Technology Jodhpur. I have keen interest in building web apps including
+              both frontend and backend. My Interest develope with HTML &amp; CSS!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -171,8 +153,8 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
-              width={500}
+              src="../../images/profile.jpeg"
+              width={800}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
