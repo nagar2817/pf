@@ -141,7 +141,7 @@ const About = () => {
               both frontend and backend. My Interest develope with HTML &amp; CSS!
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve been working in these 3 years:</p>
           </div>
 
           <ul className="skills-list">
