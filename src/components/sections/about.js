@@ -140,6 +140,11 @@ const About = () => {
               Institute of Technology Jodhpur. I have keen interest in building web apps including
               both frontend and backend. My Interest develope with HTML &amp; CSS!
             </p>
+            <p>
+              Thanks you for taking the time to check out my portfolio. I really hope you enjoy
+              exploring it as much as I enjoying building it. If you have any questions or comments
+              feel free to contact me via my personal emmail.
+            </p>
 
             <p>Here are a few technologies I’ve been working in these 3 years:</p>
           </div>
