@@ -16,6 +16,8 @@ const IconLoader = () => (
         strokeLinecap="round"
         strokeLinejoin="round"
         d="M 50, 5
+
+        
                   L 11, 27
                   L 11, 72
                   L 50, 95
