@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         i'm a final Year Undergraduate student at IIT Jodhpur, passinate about webdevelopment ,
-        problme solving and eager to learn new things abiut web3 & algorithms .
+        problme solving and eager to learn new things about web3 & algorithms .
       </p>
     </>
   );

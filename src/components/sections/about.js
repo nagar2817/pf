@@ -126,7 +126,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Python', 'React', 'C++', 'Node.js', 'MongoDB'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'Python',
+    'React',
+    'C++',
+    'Node.js',
+    'MongoDB',
+    'Solidity',
+    'PyTroch',
+    'Matlab',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,7 +153,7 @@ const About = () => {
             <p>
               Thanks you for taking the time to check out my portfolio. I really hope you enjoy
               exploring it as much as I enjoying building it. If you have any questions or comments
-              feel free to contact me via my personal emmail.
+              feel free to contact me via my personal email.
             </p>
 
             <p>Here are a few technologies I’ve been working in these 3 years:</p>
