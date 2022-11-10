@@ -132,7 +132,6 @@ const About = () => {
     'React',
     'C++',
     'Node.js',
-    'MongoDB',
     'Solidity',
     'PyTroch',
     'Matlab',
